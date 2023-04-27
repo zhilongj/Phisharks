@@ -1,0 +1,63 @@
+# Translation of Plugins - Smart Slider 3 - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Smart Slider 3 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-17 21:17:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Smart Slider 3 - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://smartslider3.com"
+msgstr "https://smartslider3.com"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31ge/includes/modules/SmartSlider3/SmartSlider3.php:101
+msgid "Here you can create the content that will be used within the module."
+msgstr "您可以在此处创建将在模块中使用的内容。"
+
+#. Author of the plugin
+msgid "Nextend"
+msgstr "Nextend"
+
+#. Description of the plugin
+msgid "The perfect all-in-one responsive slider solution for WordPress."
+msgstr "适用于WordPress的完美一体化响应滑块解决方案。"
+
+#. Plugin URI of the plugin
+msgid "https://smartslider3.com/"
+msgstr "https://smartslider3.com/"
+
+#. Plugin Name of the plugin
+msgid "Smart Slider 3"
+msgstr "智能滑块3"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Unyson/smartslider/shortcodes/smartslider/config.php:10
+msgid "Media Elements"
+msgstr "媒体元素"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/BeaverBuilder.php:84
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/BeaverBuilder.php:105
+msgid "General"
+msgstr "常规"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/SmartSlider3.php:15
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/BeaverBuilder/SmartSlider3Legacy.php:15
+msgid "Basic Modules"
+msgstr "基础模块"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31ge/includes/modules/SmartSlider3/SmartSlider3.php:28
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/VisualComposer1/VisualComposer1.php:84
+msgid "Content"
+msgstr "内容"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31lt/DiviModuleSmartSlider.php:66
+msgid "This will change the label of the module in the builder for easy identification."
+msgstr "这将更改构建器中模块的标签，以便于识别。"
+
+#: Nextend/SmartSlider3/Platform/WordPress/Integration/Divi/V31lt/DiviModuleSmartSlider.php:64
+msgid "Admin Label"
+msgstr "管理标签"
